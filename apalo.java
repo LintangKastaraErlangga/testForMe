@@ -6,5 +6,6 @@ public class apalo {
         System.out.println("rasanya seperti menjadi iron men");
         System.out.println("belilah odading mang oleh");
         System.out.println("Di jalan baranangsiang");
+        System.out.println("lamun teu meuli maneh lain balad aing");
     }
 }
